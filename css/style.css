@@ -7,13 +7,27 @@
 
 body {
     background-color: var(--whit-color);
+    font-family: 'Tahoma', Geneva, Verdana, sans-serif;
     color: var(--black-color);
+}
+
+button {
+    font-family: inherit;
+    cursor: pointer;
 }
 
 .hero {
     color: #131313;
 }
 
+.attendance {
+    background-color: var(--blue-color);
+}
+
 .facebook {
     color: #275fe0;
+}
+
+.description .bold {
+    font-weight: 700;
 }
