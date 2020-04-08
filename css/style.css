@@ -10,21 +10,25 @@ body {
     font-family: 'Tahoma', Geneva, Verdana, sans-serif;
     color: var(--black-color);
     font-size: 15px;
+    line-height: 26px;
 }
 
 button {
     font-family: inherit;
     font-size: 18px;
+    line-height: 26px;
     cursor: pointer;
 }
 
 .hero {
     color: #131313;
     font-size: 16px;
+    line-height: 26px;
 }
 
 .hero .title {
     font-size: 51px;
+    line-height: 26px;
 }
 
 .attendance {
@@ -33,15 +37,18 @@ button {
 
 .attendance .title {
     font-size: 38px;
+    line-height: 26px;
 }
 
 .attendance .name {
     font-size: 20px;
+    line-height: 26px;
 }
 
 .facebook {
     color: #275fe0;
     font-size: 17px;
+    line-height: 26px;
     text-decoration-line: none;
 }
 
@@ -51,19 +58,27 @@ button {
 
 .features .title {
     font-size: 38px;
+    line-height: 26px;
 }
 
 .list-description {
     color: #030303be;
+    line-height: 24px;
 }
 
 .number {
     font-size: 31px;
+    line-height: 26px;
     color: #0303035e;
 }
 
 .devis,
 .copy {
     font-size: 13px;
+    line-height: 26px;
     color: #0303035e;
+}
+
+footer {
+    background-color: var(--blue-color);
 }
