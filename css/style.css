@@ -1,0 +1,19 @@
+:root {
+    --blue-color: #efefef;
+    --yellow-color: #f4c32f;
+    --white-color: #fff;
+    --black-color: #030303;
+}
+
+body {
+    background-color: var(--whit-color);
+    color: var(--black-color);
+}
+
+.hero {
+    color: #131313;
+}
+
+.facebook {
+    color: #275fe0;
+}
